@@ -1,0 +1,5 @@
+agno
+duckduckgo-search
+openai
+numpy
+ddgs
